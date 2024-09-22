@@ -30,7 +30,7 @@ def banner():
 
           
                   version:1.0.0
-                  author:fangwei@2024
+                  author:fangwei
 '''
     print(banner)
 
